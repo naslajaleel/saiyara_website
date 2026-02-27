@@ -1,0 +1,39 @@
+{
+  "current": {
+    "name": "RAMADAN",
+    "description": "SUPER SALE IS LIVE",
+    "price": 1000,
+    "startDate": "2026-02-27",
+    "endDate": "2026-02-27",
+    "enabled": true
+  },
+  "history": [
+    {
+      "id": "1772183851121",
+      "name": "EID",
+      "description": "EID FEAST  IS LIVE",
+      "price": 1000,
+      "startDate": "2026-02-27",
+      "endDate": "2026-02-27",
+      "enabledAt": "2026-02-27T09:17:31.121Z"
+    },
+    {
+      "id": "1772183920497",
+      "name": "RAMADA",
+      "description": "RAMADAN SUPER SALE IS LIVE",
+      "price": 1000,
+      "startDate": "2026-02-27",
+      "endDate": "2026-02-27",
+      "enabledAt": "2026-02-27T09:18:40.497Z"
+    },
+    {
+      "id": "1772183937546",
+      "name": "RAMADAN",
+      "description": "SUPER SALE IS LIVE",
+      "price": 1000,
+      "startDate": "2026-02-27",
+      "endDate": "2026-02-27",
+      "enabledAt": "2026-02-27T09:18:57.546Z"
+    }
+  ]
+}

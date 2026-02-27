@@ -1,0 +1,72 @@
+[
+  {
+    "id": "review-1",
+    "image": "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=800",
+    "rating": 5,
+    "name": "Tanvi Modi",
+    "title": "Super cute dainty heart necklace",
+    "body": "Im obsessed 🥰🥰",
+    "product": "Dainty Heart Necklace",
+    "date": "01/30/2026"
+  },
+  {
+    "id": "review-2",
+    "image": "https://rosywine.in/cdn/shop/files/k3_9a14cc84-c933-4aa7-88dd-1ba95d793609.avif?v=1766234373&width=800",
+    "rating": 5,
+    "name": "Neha Joshi",
+    "title": "Got this piece a year ago!",
+    "body": "This necklace was bought by me a year ago. Its just amazing...since that day I have not taken it off me.",
+    "product": "Tinsely Necklace",
+    "date": "12/09/2025"
+  },
+  {
+    "id": "review-3",
+    "image": "https://rosywine.in/cdn/shop/files/k5_21581f7f-9b0a-4d43-8a83-a22b76c90a64.avif?v=1758490252&width=800",
+    "rating": 5,
+    "name": "Alveena Alveena",
+    "title": "Very delicate",
+    "body": "Apart from being really pretty what i love about this necklace is that its just so delicate.",
+    "product": "Lilith Dainty Necklace",
+    "date": "10/26/2025"
+  },
+  {
+    "id": "review-4",
+    "image": "https://rosywine.in/cdn/shop/files/k1_b1e39a0e-d350-4bcc-960e-98a6e2d6d9e7.jpg?v=1758572954&width=800",
+    "rating": 5,
+    "name": "Ankita",
+    "title": "Awesome ring",
+    "body": "I love the ring it’s sleek and elegant. Loved it.",
+    "product": "Everlee Ring",
+    "date": "10/22/2025"
+  },
+  {
+    "id": "review-5",
+    "image": "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=800",
+    "rating": 5,
+    "name": "Roslind Vasantha",
+    "title": "Carolina Necklace",
+    "body": "I bought the necklace a month ago and have been wearing it 24/7 since. Still shiny!",
+    "product": "Carolina Necklace",
+    "date": "10/21/2025"
+  },
+  {
+    "id": "review-6",
+    "image": "https://rosywine.in/cdn/shop/files/k7_a328d60e-577c-47b6-bd52-da888b9f9232_500x500.jpg?v=1731796928",
+    "rating": 5,
+    "name": "Vaishnavi BH",
+    "title": "Beautiful!",
+    "body": "beautiful!",
+    "product": "Blue Tear Drop Opal Necklace",
+    "date": "10/17/2025"
+  },
+  {
+    "id": "review-7",
+    "image": "https://rosywine.in/cdn/shop/files/DSC01024_500x500.jpg?v=1732565062",
+    "rating": 5,
+    "name": "Aishwarya Javvadi",
+    "title": "Lucy Diamond Necklace",
+    "body": "This is such a beautiful everyday necklace. It goes with everything.",
+    "product": "Lucy Diamond Necklace",
+    "date": "10/06/2025"
+  }
+]
