@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1001",
+    "name": "Zara Bangle Set",
+    "material": "Gold-plated alloy",
+    "price": 4200,
+    "offerPrice": 3500,
+    "category": "Bangles",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/k5_21581f7f-9b0a-4d43-8a83-a22b76c90a64.avif?v=1758490252&width=1200",
+      "https://rosywine.in/cdn/shop/files/k3_9a14cc84-c933-4aa7-88dd-1ba95d793609.avif?v=1766234373&width=1200"
+    ]
+  },
+  {
+    "id": "1002",
+    "name": "Noor Halo Ring",
+    "material": "18k gold finish",
+    "price": 2600,
+    "offerPrice": 2100,
+    "category": "Rings",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=1200"
+    ]
+  },
+  {
+    "id": "1003",
+    "name": "Isha Charm Bracelet",
+    "material": "Rose gold plated",
+    "price": 3100,
+    "offerPrice": 2650,
+    "category": "Bracelet",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/k1_70be3bca-f7b5-444f-b0ad-6537f54de3a7.jpg?v=1731745926&width=1200",
+      "https://rosywine.in/cdn/shop/files/k5_21581f7f-9b0a-4d43-8a83-a22b76c90a64.avif?v=1758490252&width=1200"
+    ]
+  },
+  {
+    "id": "1004",
+    "name": "Aira Aura Necklace",
+    "material": "Gold-toned brass",
+    "price": 5200,
+    "offerPrice": 4600,
+    "category": "Necklace",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/k3_9a14cc84-c933-4aa7-88dd-1ba95d793609.avif?v=1766234373&width=1200"
+    ]
+  },
+  {
+    "id": "1005",
+    "name": "Meher Stack Bangles",
+    "material": "Matte gold finish",
+    "price": 3800,
+    "offerPrice": 3200,
+    "category": "Bangles",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=1200"
+    ]
+  },
+  {
+    "id": "1006",
+    "name": "Zeenat Twin Ring",
+    "material": "Gold-plated stainless steel",
+    "price": 2400,
+    "offerPrice": 1900,
+    "category": "Rings",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/k1_70be3bca-f7b5-444f-b0ad-6537f54de3a7.jpg?v=1731745926&width=1200",
+      "https://rosywine.in/cdn/shop/files/k3_9a14cc84-c933-4aa7-88dd-1ba95d793609.avif?v=1766234373&width=1200"
+    ]
+  },
+  {
+    "id": "1007",
+    "name": "Aanya Pearl Earrings",
+    "material": "Gold-plated alloy",
+    "price": 2800,
+    "offerPrice": 2300,
+    "category": "Earrings",
+    "isBestSeller": true,
+    "images": [
+      "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=1200",
+      "https://rosywine.in/cdn/shop/files/k5_21581f7f-9b0a-4d43-8a83-a22b76c90a64.avif?v=1758490252&width=1200"
+    ]
+  }
+]
