@@ -86,5 +86,16 @@
       "https://rosywine.in/cdn/shop/files/4001A62B-927F-4D56-A932-FB6B027C4D54.jpg?v=1767092529&width=1200",
       "https://rosywine.in/cdn/shop/files/k5_21581f7f-9b0a-4d43-8a83-a22b76c90a64.avif?v=1758490252&width=1200"
     ]
+  },
+  {
+    "id": "1772300849054",
+    "name": "fa",
+    "material": "gsa",
+    "price": 222,
+    "offerPrice": 11,
+    "images": [
+      "https://raw.githubusercontent.com/naslajaleel/saiyara_website/main/frontend/public/uploads/1772300823019-product-1772300822994-screenshot-from-2026-02-27-14-43-19.png"
+    ],
+    "category": "Neckpieces"
   }
 ]
